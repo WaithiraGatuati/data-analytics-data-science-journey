@@ -4,5 +4,5 @@ Hands-on data analytics and data science projects using Excel, SQL, Power BI and
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](screenshots/dashboard-overview.png)
+
 
