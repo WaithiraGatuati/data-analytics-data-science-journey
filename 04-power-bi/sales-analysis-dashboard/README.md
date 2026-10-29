@@ -59,3 +59,6 @@ The calculated total sales measure was compared with the existing `TOTAL SALES` 
 - Analyze sales trends over time.
 - Examine order-level metrics and data quality issues.
 - Add further business insights and documented recommendations.
+
+
+![Sales Analysis Dashboard](screenshots/dashboard-overview.png)
