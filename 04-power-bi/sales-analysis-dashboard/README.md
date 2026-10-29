@@ -62,3 +62,31 @@ The calculated total sales measure was compared with the existing `TOTAL SALES` 
 
 
 ![Sales Analysis Dashboard](screenshots/dashboard-overview.png)
+
+## Regional Sales Analysis
+
+### Key Findings
+
+- **Highest-sales region:** Kiambu, with approximately 344K in total sales.
+- **Lowest-sales region:** Nakuru, with approximately 15K in total sales.
+- **Leading product in Kiambu:** Laptop, generating approximately 195K in sales.
+- **Leading product in Nakuru:** Desk, generating approximately 12K in sales.
+- **Order count:** Kiambu recorded 5 orders, while Nakuru recorded 2.
+
+### Initial Interpretation
+
+Kiambu recorded substantially higher total sales than Nakuru. The leading products also differed between the two regions, suggesting that their recorded sales may have different product mixes.
+
+These results describe the dataset and do not establish the reasons behind the differences.
+
+### Further Investigation
+
+- Compare the number of distinct orders and customers across regions.
+- Calculate average order value using total sales divided by distinct orders.
+- Investigate sales trends over time to determine whether regional performance is consistent.
+- Compare product quantities and prices across regions.
+- Consider population and market size if reliable external data becomes available.
+
+### Learning Reflection
+
+This analysis practised regional comparisons, product-level analysis, order counts, and evidence-based interpretation. It also highlighted the importance of checking how metrics are calculated before using them to make business recommendations.
